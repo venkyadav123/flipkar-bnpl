@@ -16,10 +16,10 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <junit.version>5.3.1</junit.version>
         <jacoco.version>0.8.2</jacoco.version>
-        <sonar.projectKey>maven-examples-suresh</sonar.projectKey>
-  <sonar.organization>suresh</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>b3e2eb1abd471b9103fe339eff3c13a0c84e68c8</sonar.login>     
+        <sonar.projectKey>venkat-personal</sonar.projectKey>
+        <sonar.organization>venkyadav123</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.login>5c51f323c4a350b70f90072577bc509847f01b39</sonar.login>   
              
     </properties>
 
