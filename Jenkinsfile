@@ -1,7 +1,7 @@
 node {
    
    stage('Code checkout') { // for display purposes
-     git credentialsId: 'githubID', url: 'https://github.com/itrainpheonix/maven-examples.git'  
+     git credentialsId: 'githubcrd', url: 'https://github.com/venkyadav123/flipkar-bnpl.git'  
    }
    stage('Build') {
     withMaven(jdk: 'JDK-1.8', maven: 'Apache-3.6.1') {
